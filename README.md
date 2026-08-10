@@ -33,9 +33,9 @@ Discord: https://discord.com/invite/qcWB7ntmBH
 
 Comment l'acheter? | How to buy it?
 
-🇫🇷 Vous devez simplement ouvrir un ticket dans le salon <#1522041476195029012> dans la catégorie "Contacter le support boutique", décrire ce que vous voulez faire ou acheter. Une fois que cela est fait, il ne vous restera plus qu'à passer au paiement (Virement interac et PayPal uniquement) et le script vous sera envoyer.
+🇫🇷 Vous devez simplement ouvrir un ticket dans le salon support dans la catégorie "Contacter le support boutique", décrire ce que vous voulez faire ou acheter. Une fois que cela est fait, il ne vous restera plus qu'à passer au paiement (Virement interac et PayPal uniquement) et le script vous sera envoyer.
 
-🇬🇧 Simply open a ticket in the <#1522041476195029012> channel under the "Contact the shop's support" category and describe what you wish to do or purchase. Once that is done, all that remains is to complete the payment (Interac e-Transfer and PayPal only), and the script will be sent to you.
+🇬🇧 Simply open a ticket in the support channel under the "Contact the shop's support" category and describe what you wish to do or purchase. Once that is done, all that remains is to complete the payment (Interac e-Transfer and PayPal only), and the script will be sent to you.
 
 
 Documentation (In my discord server): https://discord.com/channels/1522034173458514010/1535443571207835658
