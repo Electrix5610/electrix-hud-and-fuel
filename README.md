@@ -16,29 +16,29 @@ I’ll let you check it out in a short demo video.
 =======================================
 
 
-Prix/Price
+## Prix/Price
 - 4.99 CAD
 - 3.10 EUR
 - 3.58 USD
 - 2.65 GBP
 
 
-Où l'acheter? | Where to buy it?
+## Où l'acheter? | Where to buy it?
 
 🇫🇷 Vous devez rejoindre mon serveur discord et suivre les instructions ci-dessous.
 🇬🇧 You need to join my discord server and follow the instructions bellow.
 
-Discord: https://discord.com/invite/qcWB7ntmBH
+## Discord: https://discord.com/invite/qcWB7ntmBH
 
 
-Comment l'acheter? | How to buy it?
+## Comment l'acheter? | How to buy it?
 
 🇫🇷 Vous devez simplement ouvrir un ticket dans le salon support dans la catégorie "Contacter le support boutique", décrire ce que vous voulez faire ou acheter. Une fois que cela est fait, il ne vous restera plus qu'à passer au paiement (Virement interac et PayPal uniquement) et le script vous sera envoyer.
 
 🇬🇧 Simply open a ticket in the support channel under the "Contact the shop's support" category and describe what you wish to do or purchase. Once that is done, all that remains is to complete the payment (Interac e-Transfer and PayPal only), and the script will be sent to you.
 
 
-Documentation (In my discord server): https://discord.com/channels/1522034173458514010/1535443571207835658
+## Documentation (In my discord server): https://discord.com/channels/1522034173458514010/1535443571207835658
 
 
 # ⚠️ IMPORTANT ⚠️
